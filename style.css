@@ -1,5 +1,9 @@
-.button {
-  font-family: "Lucida Console", "Courier New", monospace;
+body {
+ background-color: #93E9BE;
+ opacity: 0.5;
+  }
+
+.profile {
   background color: #00FFFF;
   border: none;
   text-align: center;
