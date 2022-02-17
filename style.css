@@ -11,4 +11,13 @@ button {
   text-align: center;
   font-size: 20px;
   margin: 10px 12px;
+ box-shadow: 0 5px #01CBCB
+}
+
+button:hover {opacity: 1}
+
+button:active {
+  background-color: #55FFFF;
+  box-shadow: 0 2px #01CBCB;
+  transform: translateY(4px);
 }
