@@ -21,4 +21,5 @@ button:active {
   background-color: #55FFFF;
   box-shadow: 0 2px #01CBCB;
   transform: translateY(4px);
+ cursor: pointer;
 }
